@@ -1,2 +1,3 @@
-# Mean-Variance-Standard-Deviation-Calculator
-Cree una función denominada "calculate()" que "mean_var_std.py" utilice Numpy para generar la media, la varianza, la desviación estándar, el máximo, el mínimo y la suma de las filas, columnas y elementos de una matriz de 3 x 3.
+# Mean-Variance-Standard Deviation Calculator
+
+This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
